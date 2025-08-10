@@ -1,0 +1,11 @@
+{
+  "services": {
+    "httpd": "Apache HTTP (httpd)",
+    "mariadb": "MariaDB (DB)",
+    "redis": "Redis",
+    "nginx": "Nginx",
+    "sshd": "SSH",
+    "firewalld": "FirewallD"
+  }
+}
+

@@ -1,0 +1,5 @@
+{
+  "httpd": {"status":"unknown","last_checked":"-"},
+  "mariadb": {"status":"unknown","last_checked":"-"}
+}
+
